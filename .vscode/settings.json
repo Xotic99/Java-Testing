@@ -6,5 +6,6 @@
         "bin/main/testing",
         "bin/test/testing",
         "src/main/java/testing"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
